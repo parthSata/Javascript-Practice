@@ -30,4 +30,4 @@ const storeArrow = (num1) => {
 
 const implicitReturn = (num1) =>  num1 * 80  //Not Use of Paranthisis
 
-console.log(implicitReturn(3000))
+// console.log(implicitReturn(3000))
